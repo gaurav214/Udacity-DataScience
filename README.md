@@ -1,5 +1,6 @@
 ## Finance Data Project
 
+## Link for BlogPost: https://medium.com/@negi.gaurav2/stock-price-analysis-afc61ebdcde1
 **Libraries Used in project:**
 1. Numpy & Pandas
 2. GLOB
