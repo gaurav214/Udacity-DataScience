@@ -11,6 +11,7 @@
 8. matplotlib
 
 **Motivation:**
+
 The NASDAQ stock market is an American stock exchange. It is the second largest exchange in the world by market capitalization, behind only New York Stock Exchange located in the same city. The exchange platform is owned by Nasdaq.Inc
 In this post, we will analyse 3 years of NASDAQ100 data (from 2014 to mid 2017). This data set includes stock prices for following companies:
 
@@ -30,6 +31,7 @@ BIDU — Bai
 
 
 **Dataset:**
+
 Data set was gathered from below mentioned Kaggle linked. The dataset was cleaned according the requirement.
 https://www.kaggle.com/daytrader/ema-65-crossover
 
