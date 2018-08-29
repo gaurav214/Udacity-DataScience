@@ -39,6 +39,11 @@ https://www.kaggle.com/daytrader/ema-65-crossover
 **Files Description:**
 daytrader.ai dataset.ipynb: Following file is an ipython notebook which contains a detailed level analysis of the dataset along with the required comments to explain each step.
 
+**Missing Data and Categorical Values:**
+I did not used any Machine learning models so there was no need of categorical variable data handling and as for missing data. The orignal data that I gathered was for 5 years but since majority of companies were missing data due to joining them, I only considered 3 years of data i.e. 2014 to 2017 for my exploratorty data analysis.
+
+This was a good approach for this situation as imputing so many values at such large scale would have affected my analysis and it was possibly making data more dirty and unreliable.
+
 **Summary of the Results**
 
 In this project, we took a look at stock price data of some companies over a 3 year time period to understand stock price fluctuations and answered some question which will help a day trader to make better day trading strategies.
